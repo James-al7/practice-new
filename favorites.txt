@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 plantain
 coconut
 waffle
-=======
 spiderman2
 infinity war
 sinners
->>>>>>> movies
